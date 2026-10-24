@@ -1,0 +1,10 @@
+CSV DATA ANALYZER REPORT
+
+File: StudentsPerformance.csv
+Rows: 1000
+Columns: 8
+
+Average Scores:
+math score       66.09
+reading score    69.17
+writing score    68.05
